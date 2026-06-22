@@ -1,0 +1,6 @@
+Add ZR_FLIGHT_LIST flight data ALV report
+
+Implements issue #2: fetch flight data (SFLIGHT/SCARR/SPFLI) and
+display it as an ALV list using cl_salv_table.
+
+Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>
